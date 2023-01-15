@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-    <img  src="https://drive.google.com/file/d/18N58Y4odjPA17BBV864kiJT18rDjTVRy/view?usp=sharing"  alt="">
+    <img  src="https://ibb.co/pP6Xq3r"  alt="">
   <br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit2444&show_icons=true&locale=en&layout=compact" alt="arpit2444" /></p>
